@@ -1,0 +1,13 @@
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\bin\Debug\netcoreapp3.1\DeclareAndInitializeVariables.exe
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\bin\Debug\netcoreapp3.1\DeclareAndInitializeVariables.deps.json
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\bin\Debug\netcoreapp3.1\DeclareAndInitializeVariables.runtimeconfig.json
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\bin\Debug\netcoreapp3.1\DeclareAndInitializeVariables.runtimeconfig.dev.json
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\bin\Debug\netcoreapp3.1\DeclareAndInitializeVariables.dll
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\bin\Debug\netcoreapp3.1\DeclareAndInitializeVariables.pdb
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.csprojAssemblyReference.cache
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.AssemblyInfoInputs.cache
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.AssemblyInfo.cs
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.csproj.CoreCompileInputs.cache
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.dll
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.pdb
+C:\Users\humph\source\repos\DeclareAndInitializeVariables\DeclareAndInitializeVariables\obj\Debug\netcoreapp3.1\DeclareAndInitializeVariables.genruntimeconfig.cache
